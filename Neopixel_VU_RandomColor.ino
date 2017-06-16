@@ -58,7 +58,7 @@
     };
 
     int colorChangeThresh = 50; //What amplitude should trigger a color change?
-    byte colorChangeRate = 5; //How fast do you want the colors to transition? Keep this as a factor of 5.
+    byte colorChangeRate = 5; //How fast do you want the colors to transition?
     bool doInstantChange = true; //Set this to true if you don't want a fade.
     
     color currentColor;
