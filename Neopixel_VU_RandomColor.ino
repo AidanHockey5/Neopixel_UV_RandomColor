@@ -26,6 +26,7 @@
      Floating Point Autoscale Function V0.1
      Written by Paul Badger 2007
      Modified from code by Greg Shakar
+     Additions by Aidan Lawrence
      
      */
      
